@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Flashcards.iml" filepath="$PROJECT_DIR$/.idea/modules/Flashcards.iml" group="Flashcards" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Flashcards/task/Flashcards-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Flashcards/task/Flashcards-task.iml" group="Flashcards/Flashcards-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Flashcards/task/Flashcards-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Flashcards/task/Flashcards-task_main.iml" group="Flashcards/Flashcards-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Flashcards/task/Flashcards-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Flashcards/task/Flashcards-task_test.iml" group="Flashcards/Flashcards-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Advanced calculator/Problems-Advanced_calculator.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Advanced calculator/Problems-Advanced_calculator.iml" group="Flashcards/Problems-Advanced_calculator" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Advanced calculator/Problems-Advanced_calculator_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Advanced calculator/Problems-Advanced_calculator_main.iml" group="Flashcards/Problems-Advanced_calculator" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Advanced calculator/Problems-Advanced_calculator_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Advanced calculator/Problems-Advanced_calculator_test.iml" group="Flashcards/Problems-Advanced_calculator" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Basic calculator/Problems-Basic_calculator.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Basic calculator/Problems-Basic_calculator.iml" group="Flashcards/Problems-Basic_calculator" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Basic calculator/Problems-Basic_calculator_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Basic calculator/Problems-Basic_calculator_main.iml" group="Flashcards/Problems-Basic_calculator" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Basic calculator/Problems-Basic_calculator_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Basic calculator/Problems-Basic_calculator_test.iml" group="Flashcards/Problems-Basic_calculator" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Creating list/Problems-Creating_list.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Creating list/Problems-Creating_list.iml" group="Flashcards/Problems-Creating_list" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Creating list/Problems-Creating_list_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Creating list/Problems-Creating_list_main.iml" group="Flashcards/Problems-Creating_list" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Creating list/Problems-Creating_list_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Creating list/Problems-Creating_list_test.iml" group="Flashcards/Problems-Creating_list" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fixing the main method/Problems-Fixing_the_main_method.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fixing the main method/Problems-Fixing_the_main_method.iml" group="Flashcards/Problems-Fixing_the_main_method" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fixing the main method/Problems-Fixing_the_main_method_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fixing the main method/Problems-Fixing_the_main_method_main.iml" group="Flashcards/Problems-Fixing_the_main_method" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fixing the main method/Problems-Fixing_the_main_method_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fixing the main method/Problems-Fixing_the_main_method_test.iml" group="Flashcards/Problems-Fixing_the_main_method" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Parameters and their values/Problems-Parameters_and_their_values.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Parameters and their values/Problems-Parameters_and_their_values.iml" group="Flashcards/Problems-Parameters_and_their_values" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Parameters and their values/Problems-Parameters_and_their_values_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Parameters and their values/Problems-Parameters_and_their_values_main.iml" group="Flashcards/Problems-Parameters_and_their_values" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Parameters and their values/Problems-Parameters_and_their_values_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Parameters and their values/Problems-Parameters_and_their_values_test.iml" group="Flashcards/Problems-Parameters_and_their_values" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Print  Hello, Java!/Problems-Print__Hello,_Java!.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Print  Hello, Java!/Problems-Print__Hello,_Java!.iml" group="Flashcards/Problems-Print__Hello,_Java!" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Print  Hello, Java!/Problems-Print__Hello,_Java!_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Print  Hello, Java!/Problems-Print__Hello,_Java!_main.iml" group="Flashcards/Problems-Print__Hello,_Java!" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Print  Hello, Java!/Problems-Print__Hello,_Java!_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Print  Hello, Java!/Problems-Print__Hello,_Java!_test.iml" group="Flashcards/Problems-Print__Hello,_Java!" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Flashcards/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Flashcards/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Flashcards/util" />
+    </modules>
+  </component>
+</project>
